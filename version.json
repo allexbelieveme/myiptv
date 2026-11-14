@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "1.22",
+  "versionCode": 38,
+  "versionName": "1.23",
   "apk": "MyIPTV.apk",
-  "notes": "Обновления теперь приходят с GitVerse (GitHub больше не используется)."
+  "notes": "Обновления снова с GitHub (новый адрес), запасной источник — GitVerse."
 }
